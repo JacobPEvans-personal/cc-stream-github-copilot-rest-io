@@ -91,3 +91,7 @@ changes, adjust the `jsonArrayField` in the `GitHub Copilot Usage Ruleset`.
 - 3 REST collectors (org, team, user level)
 - JSON array event breaker for Copilot usage metrics
 - Configurable variables for org, PAT, team, and API base URL
+
+---
+
+> Part of a [larger ecosystem of ~40 repos](https://docs.jacobpevans.com) — see how it all fits together.
